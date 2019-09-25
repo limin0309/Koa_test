@@ -1,0 +1,10 @@
+{
+  "name": "Koa2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "co": "^4.6.0",
+    "node-fetch": "^2.6.0"
+  }
+}
